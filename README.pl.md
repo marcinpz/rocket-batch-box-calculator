@@ -1,0 +1,1 @@
+Kalkulator do pieca akumulacyjnego, rakietowego "Batch Box"
